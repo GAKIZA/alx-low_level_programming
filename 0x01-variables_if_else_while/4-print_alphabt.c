@@ -11,7 +11,7 @@ c = 'a';
 
 while
 	(c <= 'z') {
-		if (c == 'e' || c == 'q')
+		if ((c != 'e' || c != 'q') && c <= 'z')
 			continue;
 		else
 			putchar(c);
