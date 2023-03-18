@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main:
+ * main:3-print_alphabets
  * Return: 0(Successful)
  */
 int main(void)
@@ -10,7 +10,7 @@ char d;
 
 c = 'a';
 d = 'A';
-while 
+while
 	(c <= 'z') {
 		putchar(c);
 		c++;
