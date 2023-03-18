@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main:3-print_alphabets
+ * main - 3-print_alphabets
  * Return: 0(Successful)
  */
 int main(void)
