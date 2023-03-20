@@ -20,13 +20,14 @@ for (d = '0'; d < '9'; d++)
 				putchar(d);
 				putchar(p);
 				putchar(q);
-			}
-			if (d == '8' && p == '9')
+			
+			if (d == '7' && p == '8')
 			{
 				continue;
 			}
 			putchar(',');
 			putchar(' ');
+			}
 		}
 	}
 }
