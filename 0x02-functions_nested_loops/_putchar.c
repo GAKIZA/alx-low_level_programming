@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * putcher - writes the character c to stdout
+ * putchar - writes the character c to stdout
  * @c: The character to print
  *
  * Return: 0 Success 1.
