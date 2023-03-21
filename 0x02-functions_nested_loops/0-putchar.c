@@ -1,7 +1,7 @@
-#include<main.h>
+#include "main.h"
 /**
- * main - Program to print _putchar 
- *
+ * main - Program to print _putchar
+ *is written by Samuel G.
  * Return: 0 (Success)
  */
 int main(void)
@@ -14,6 +14,6 @@ _putchar('c');
 _putchar('h');
 _putchar('a');
 _putchar('r');
-_putchar("\n");
+_putchar('\n');
 return (0);
 }
