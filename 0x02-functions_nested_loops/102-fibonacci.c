@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <stdio.h>
 /**
  * main - creating theprogram to list first 100 fibonacci numbers
  *
