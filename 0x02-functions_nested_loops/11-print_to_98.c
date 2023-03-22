@@ -3,6 +3,7 @@
 
 /**
  * print_to_98 - Prints all natural numbers from n to 100
+ * @n: The number to start printing from.
  * Return: ALways 0.
  */
 
