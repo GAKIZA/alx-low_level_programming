@@ -4,7 +4,7 @@
  * @x: number to be checked
  * Return: 1 upper 0 lower
  */
-int isupper(int x)
+int _isupper(int x)
 {
 	if (x >= 65 && x <= 90)
 	{
