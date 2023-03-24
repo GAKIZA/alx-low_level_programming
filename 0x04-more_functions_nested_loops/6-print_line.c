@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *Print_line - Draw a line of underscores
+ *print_line - Draw a line of underscores
  *@n: Number of underscores composed of a line
- *Return:
+ *Return: empty
  */
 
 void print_line(int n)
