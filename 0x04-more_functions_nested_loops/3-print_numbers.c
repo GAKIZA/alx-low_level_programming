@@ -1,15 +1,15 @@
 #include "main.h"
 /**
- * print_numbers - Print numbers om 0 to 9 followed by a line
- * Return: numbers from 0 to 9
+ * print_numbers - Print numbers from 0 to 9
+ * Return: Numbers from 0 to 9
  */
 void print_numbers(void)
 {
-	int a;
+	int w;
 
-	for (a = 0; a <= 9; a++)
+	for (w = 0; w <= 9; w++)
 	{
-		_putchar(a + '0');
+		_putchar(w + '0');
 	}
 	_putchar('\n');
 }
