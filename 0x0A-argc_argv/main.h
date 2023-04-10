@@ -1,5 +1,5 @@
 #ifndef MAIN_H
 #define MAIN_H
 int _putchar(char c);
-int atoi(int *s);
+int atoi(char *s);
 #endif
